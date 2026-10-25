@@ -1,0 +1,22 @@
+# Edit this. Skills are matched case-insensitively as substrings.
+years_experience = 2.0
+tz_offset = 1
+skills = [
+ "rust",
+ "python",
+ "typescript",
+ "javascript",
+ "tokio",
+ "axum",
+ "postgres",
+ "sql",
+ "git",
+ "linux",
+ "nix",
+ "docker",
+ "python",
+ "backend",
+ "api",
+ "grpc",
+ "mcp",
+]

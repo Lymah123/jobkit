@@ -1,0 +1,1 @@
+{"remote": true, "min_years": 10, "tz": null, "required_skills": ["Python", "Java", "React", "Angular", "Vertex AI", "Kubeflow", "Airflow", "Prefect", "Triton", "vLLM", "SHAP", "LIME", "Pandas", "Spark", "SQL", "Vector Search", "Semantic Kernel", "AWS", "Azure", "GCP with CI/CD", "Infra-as-code"]}

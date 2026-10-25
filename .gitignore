@@ -1,0 +1,9 @@
+target/
+.jobkit-cache/
+postings/*.txt
+!postings/example-metalbear.txt
+postings/labels/
+holdout/*.txt
+eval-*.txt
+*Zone.Identifier
+*.bak
